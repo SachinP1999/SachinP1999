@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SachinP1999
-- 👀 I’m interested in Front End Developer, Web Design
+- 👀 I’m interested in UI/UX Design, Web Design and Development
 - 🌱 I’m currently learning Web design and Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
